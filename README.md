@@ -1,4 +1,4 @@
-# 1.Công Nghệ Sử dụng:
+# 1. Công Nghệ Sử dụng:
 
 ---
 
